@@ -1,0 +1,17 @@
+{
+  "name": "zippy-logger",
+  "version": "1.0.0",
+  "description": "A logger implementation for Winston that offers logging errors, infos and warnings.",
+  "main": "index.js",
+  "keywords": [
+    "logger",
+    "simple",
+    "winston",
+    "setup"
+  ],
+  "author": "Bhfreagra (https://github.com/Bhfreagra)",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
