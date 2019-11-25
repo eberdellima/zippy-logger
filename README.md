@@ -33,12 +33,3 @@ Logs will be writen in files with YYYY-MM-DD.log name format. As for the format 
 where level is either "error", "warn" or "info" and path and message are as you passed them during logging
 
   
-  
-
-## New implementations
-
-  
-
-- Create Transporter for console
-- Colorize console logs
-- Add tests
