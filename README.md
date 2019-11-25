@@ -39,7 +39,6 @@ where level is either "error", "warn" or "info" and path and message are as you 
 
   
 
-- Divide logging into
-    - production logging (file)
-    - development logging (console)
-- Add colorization to logged messages
+- Create Transporter for console
+- Colorize console logs
+- Add tests
